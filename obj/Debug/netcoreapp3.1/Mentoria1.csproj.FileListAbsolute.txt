@@ -1,0 +1,13 @@
+D:\WorkSpaceDotNet\Mentoria1\bin\Debug\netcoreapp3.1\Mentoria1.exe
+D:\WorkSpaceDotNet\Mentoria1\bin\Debug\netcoreapp3.1\Mentoria1.deps.json
+D:\WorkSpaceDotNet\Mentoria1\bin\Debug\netcoreapp3.1\Mentoria1.runtimeconfig.json
+D:\WorkSpaceDotNet\Mentoria1\bin\Debug\netcoreapp3.1\Mentoria1.runtimeconfig.dev.json
+D:\WorkSpaceDotNet\Mentoria1\bin\Debug\netcoreapp3.1\Mentoria1.dll
+D:\WorkSpaceDotNet\Mentoria1\bin\Debug\netcoreapp3.1\Mentoria1.pdb
+D:\WorkSpaceDotNet\Mentoria1\obj\Debug\netcoreapp3.1\Mentoria1.csprojAssemblyReference.cache
+D:\WorkSpaceDotNet\Mentoria1\obj\Debug\netcoreapp3.1\Mentoria1.AssemblyInfoInputs.cache
+D:\WorkSpaceDotNet\Mentoria1\obj\Debug\netcoreapp3.1\Mentoria1.AssemblyInfo.cs
+D:\WorkSpaceDotNet\Mentoria1\obj\Debug\netcoreapp3.1\Mentoria1.csproj.CoreCompileInputs.cache
+D:\WorkSpaceDotNet\Mentoria1\obj\Debug\netcoreapp3.1\Mentoria1.dll
+D:\WorkSpaceDotNet\Mentoria1\obj\Debug\netcoreapp3.1\Mentoria1.pdb
+D:\WorkSpaceDotNet\Mentoria1\obj\Debug\netcoreapp3.1\Mentoria1.genruntimeconfig.cache
